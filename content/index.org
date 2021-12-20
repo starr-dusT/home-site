@@ -1,9 +1,12 @@
 #+TITLE: Home Site
 
-* Test Link
-This is my [[https://rss.tstarr.us/tt-rss/][rss-reader]]
+* Bookmarks
 
-test
+** Search
+| [[google:][Google]] | [[duckduckgo:][DuckDuckGo]] | [[https://brave.com/][Brave]] |
 
-* This is another test
-This is another org [[file:bookmarks.org][file]]
+** Media
+| [[https://www.youtube.com][Youtube]] | [[https://media.tstarr.us/navidrome][Navidrome]] | [[https://media.tstarr.us/jellyfin][Jellyfin]]  |
+
+** RSS
+| [[https://rss.tstarr.us/tt-rss][tt-rss]] | [[https://rss.tstarr.us/][rss-bridge]] |
