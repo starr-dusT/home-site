@@ -1,0 +1,4 @@
+#+TITLE: Bookmarks
+
+* Bookmarks
+[[https://tstarr.us/navidrome/][music]]
