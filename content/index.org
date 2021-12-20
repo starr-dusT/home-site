@@ -3,7 +3,7 @@
 * Bookmarks
 
 ** Search
-| [[google:][Google]] | [[duckduckgo:][DuckDuckGo]] | [[https://brave.com/][Brave]] |
+| [[https://www.google.com/][Google]] | [[https://www.duckduckgo.com/][DuckDuckGo]]  | [[https://brave.com/][Brave]] |
 
 ** Media
 | [[https://www.youtube.com][Youtube]] | [[https://media.tstarr.us/navidrome][Navidrome]] | [[https://media.tstarr.us/jellyfin][Jellyfin]]  |
